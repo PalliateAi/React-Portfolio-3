@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.937" height="70" viewBox="0 0 69.937 70">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#faae1b"/>
+      <stop offset="1" stop-color="#ea3a60"/>
+    </linearGradient>
+  </defs>
+  <g id="support" transform="translate(-12.236 -1)">
+    <g id="Group_1529" data-name="Group 1529">
+      <path id="Path_3023" data-name="Path 3023" d="M47.7,17A26.5,26.5,0,1,1,21.228,43.5,26.488,26.488,0,0,1,47.7,17Z" fill="#ff4361" fill-rule="evenodd"/>
+      <path id="Path_3024" data-name="Path 3024" d="M47.7,17A26.5,26.5,0,1,1,21.228,43.5,26.488,26.488,0,0,1,47.7,17Z" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <path id="Path_3025" data-name="Path 3025" d="M42.209,1H52.2A29.986,29.986,0,0,1,82.173,31V41A29.987,29.987,0,0,1,52.2,71H42.209A29.987,29.987,0,0,1,12.236,41V31A29.986,29.986,0,0,1,42.209,1Z" fill="#ff4361" fill-rule="evenodd"/>
+    <path id="Path_3026" data-name="Path 3026" d="M42.209,1H52.2A29.986,29.986,0,0,1,82.173,31V41A29.987,29.987,0,0,1,52.2,71H42.209A29.987,29.987,0,0,1,12.236,41V31A29.986,29.986,0,0,1,42.209,1Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Path_3027" data-name="Path 3027" d="M60.293,23H37.113a2.907,2.907,0,0,0-2.9,2.9V52l5.795-5.8H60.293a2.907,2.907,0,0,0,2.9-2.9V25.9A2.907,2.907,0,0,0,60.293,23Z" fill="#fefafc" fill-rule="evenodd"/>
+  </g>
+</svg>
